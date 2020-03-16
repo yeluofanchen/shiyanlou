@@ -1,2 +1,1 @@
-# shiyanlou
-Git 课程测试
+the best way learn git is do ti more -
